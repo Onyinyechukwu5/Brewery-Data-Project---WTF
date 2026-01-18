@@ -45,6 +45,7 @@ country in West Africa.
 3. Country with the highest profit of the fourth quarter in 2019
 
 ## Answers
+<a href = https://github.com/Onyinyechukwu5/Brewery-Data-Project---WTF/blob/main/Brewery%20Data%20Project.sql>Answers<a/>
 
 
 ## Key Insights & Lessons Learned
